@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John\\source\\repos\\HelloGame\\HelloGame\\HelloGame.csproj": {}
+    "C:\\Users\\John\\Source\\Repos\\CIS580Tutorials\\HelloGame\\HelloGame\\HelloGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John\\source\\repos\\HelloGame\\HelloGame\\HelloGame.csproj": {
+    "C:\\Users\\John\\Source\\Repos\\CIS580Tutorials\\HelloGame\\HelloGame\\HelloGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\source\\repos\\HelloGame\\HelloGame\\HelloGame.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Source\\Repos\\CIS580Tutorials\\HelloGame\\HelloGame\\HelloGame.csproj",
         "projectName": "HelloGame",
-        "projectPath": "C:\\Users\\John\\source\\repos\\HelloGame\\HelloGame\\HelloGame.csproj",
+        "projectPath": "C:\\Users\\John\\Source\\Repos\\CIS580Tutorials\\HelloGame\\HelloGame\\HelloGame.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\source\\repos\\HelloGame\\HelloGame\\obj\\",
+        "outputPath": "C:\\Users\\John\\Source\\Repos\\CIS580Tutorials\\HelloGame\\HelloGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
